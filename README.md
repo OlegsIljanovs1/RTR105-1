@@ -1,5 +1,5 @@
 # RTR105
-Darmacības kursa elektroniska klade
+Datormacības kursa elektroniska klade
 ### Pārvietošanas failu sistēma  
 **cd** - change directory  
 **.** - current directory
